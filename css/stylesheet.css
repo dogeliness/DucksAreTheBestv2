@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    transition: 1s linear;
+    height: 100vh;
+    margin: 0;
+}
+img {
+    position: absolute;
+}
